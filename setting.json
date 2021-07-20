@@ -1,4 +1,12 @@
 {
-    "TOKEN": "ODY2NTgxOTIyMzg1MzYyOTQ2.YPUpTg.DMc6okkQBbxYsoAosUh4b1-VesY",
-    "welcome": "866593287749632030"
+    "TOKEN": "ODY2NTgxOTIyMzg1MzYyOTQ2.YPUpTg.xy-KnxIQZn8kHNkIlpXRfFzglas",
+    "welcome": "866593287749632030",
+    "pic": [
+        "D:\\GitHub\\ToolMan_Bot\\pic\\1.png",
+        "D:\\GitHub\\ToolMan_Bot\\pic\\2.png"
+    ],
+    "shake": [
+        "D:\\GitHub\\ToolMan_Bot\\pic\\3.gif",
+        "D:\\GitHub\\ToolMan_Bot\\pic\\4.gif"
+    ]
 }
